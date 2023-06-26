@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kartikportfolio.github.io/static/css/main.35c501ce.css",
+    "main.js": "/kartikportfolio.github.io/static/js/main.0565660b.js",
+    "static/media/abc.jpeg": "/kartikportfolio.github.io/static/media/abc.46a307786e9a6655c424.jpeg",
+    "static/media/bvg.jpg": "/kartikportfolio.github.io/static/media/bvg.55bd472567b1bbe1c5e2.jpg",
+    "static/media/portfolio5.png": "/kartikportfolio.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/vikram_cv1.pdf": "/kartikportfolio.github.io/static/media/vikram_cv1.0e1cea466e9f2d7c8c51.pdf",
+    "static/media/portfolio2.jpg": "/kartikportfolio.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/kartikportfolio.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/kartikportfolio.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/kartikportfolio.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/kartikportfolio.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/kartikportfolio.github.io/index.html",
+    "main.35c501ce.css.map": "/kartikportfolio.github.io/static/css/main.35c501ce.css.map",
+    "main.0565660b.js.map": "/kartikportfolio.github.io/static/js/main.0565660b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35c501ce.css",
+    "static/js/main.0565660b.js"
+  ]
+}
